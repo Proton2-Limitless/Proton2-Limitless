@@ -75,9 +75,7 @@ My expertise spans building scalable mobile apps with **Flutter** and robust bac
 * 🏆 **Overall Best Male Student** | Federation of Kogi State Students’ Union (2019)
 
 ### **Certifications & Training**
-* 🎓 Machine Learning Track — *Compute Ontario Summer School (2025)*
-* 🛢️ Integrated Reservoir Analysis — *Reservoir Solution (2025)*
-* 🔧 Drill & Well Servicing Systems — *LearnToDrill (2023)*
+* 🎓 Neural Networks and Deep Learning — *Deeplearning.ai (2026)*
 
 ---
 
