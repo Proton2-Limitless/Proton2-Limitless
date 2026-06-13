@@ -6,7 +6,7 @@
   <a href="https://github.com/Proton2-Limitless"><img src="https://img.shields.io/badge/GitHub-Proton2--Limitless-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-Experienced **Full-Stack Developer (5+ years)** and **First-Class Mechatronics Engineer**. I sit at the intersection of robust software systems, cross-platform mobile development, and intelligent hardware control. 
+Experienced **Full-Stack Developer (5+ years)** and **Second-Class Mechatronics Engineer**. I sit at the intersection of robust software systems, cross-platform mobile development, and intelligent hardware control. 
 
 My expertise spans building scalable mobile apps with **Flutter** and robust backends with **Node.js/NestJS**, alongside deep practical research in **Deep Reinforcement Learning (DRL)**, robotics, and adaptive control systems. 
 
